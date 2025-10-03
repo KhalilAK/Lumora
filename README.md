@@ -1,4 +1,4 @@
-# Lumora App
+# Lumora - In Development
 
 A comprehensive mobile application for managing insurance plans, tracking bills, and viewing insurance benefits in real-time.
 
