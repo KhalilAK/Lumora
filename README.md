@@ -81,11 +81,8 @@ The app follows a client-server architecture:
 ## Future Enhancements
 
 - Push notifications for bill due dates
-- Document scanning and OCR for bill uploads
 - Integration with healthcare provider systems
 - Claims submission and tracking
-- Health savings account (HSA) integration
-
 
 
 **Note:** This is a demonstration project showcasing full-stack mobile development capabilities with real-world API integration.
