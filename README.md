@@ -42,11 +42,11 @@ This application provides users with a centralized platform to manage their insu
 
 ## Screenshots
 
-![Login Screen](screenshots/screenshot.png)
-![Sign Up](screenshots/screenshot.png)
-![Dashboard](screenshots/screenshot.png)
-![Insurance Plans](screenshots/screenshot.png)
-![Bills](screenshots/screenshot.png)
+![Login Screen](screenshots/login.png)
+![Sign Up](screenshots/signup.png)
+![Dashboard](screenshots/dashboard.png)
+![Insurance Plans](screenshots/plans.png)
+![Bills](screenshots/bills.png)
 
 ## Architecture
 
