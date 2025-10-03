@@ -52,6 +52,8 @@ This application provides users with a centralized platform to manage their insu
 
 ![Bills](screenshots/bills.png)
 
+All screenshots use fake data.
+
 ## Architecture
 
 The app follows a client-server architecture:
