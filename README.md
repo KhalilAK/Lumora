@@ -43,7 +43,7 @@ This application provides users with a centralized platform to manage their insu
 ## Screenshots
 
 <img src="screenshots/loginnew.png" alt="Login Screen" width="200"/>
-<img src="screenshots/signupnew.png" alt="Sign Up" width="300"/>
+<img src="screenshots/signupnew.png" alt="Sign Up" width="200"/>
 <img src="screenshots/dashboardnew.png" alt="Dashboard" width="200"/>
 <img src="screenshots/plansnew.png" alt="Insurance Plans" width="200"/>
 <img src="screenshots/billsnew.png" alt="Bills" width="200"/>
