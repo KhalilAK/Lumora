@@ -42,15 +42,11 @@ This application provides users with a centralized platform to manage their insu
 
 ## Screenshots
 
-![Login Screen](screenshots/loginnew.png)
-
-![Sign Up](screenshots/signupew.png)
-
-![Dashboard](screenshots/dashboardnew.png)
-
-![Insurance Plans](screenshots/plansnew.png)
-
-![Bills](screenshots/billsnew.png)
+<img src="screenshots/loginnew.png" alt="Login Screen" width="300"/>
+<img src="screenshots/signupew.png" alt="Sign Up" width="300"/>
+<img src="screenshots/dashboardnew.png" alt="Dashboard" width="300"/>
+<img src="screenshots/plansnew.png" alt="Insurance Plans" width="300"/>
+<img src="screenshots/billsnew.png" alt="Bills" width="300"/>
 
 All screenshots use fake data.
 
